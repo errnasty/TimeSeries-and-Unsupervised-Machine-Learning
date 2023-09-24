@@ -1,1 +1,3 @@
-# TimeSeries-and-Unsupervised-Machine-Learning
+### TimeSeries-and-Unsupervised-Machine-Learning
+
+This are my projects for AIML CA2:)
